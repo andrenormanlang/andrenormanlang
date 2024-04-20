@@ -8,5 +8,5 @@
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=figma,tailwind,bootstrap,materialui,html,css,sass,js,ts,vite,react,nextjs,solidjs,nodejs,express,prisma,jwt,graphql,postman,mongodb,mysql,firebase,supabase,cypress,jest,vitest,git,gitlab,netlify,vercel&perline=5" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=figma,tailwind,bootstrap,materialui,html,css,sass,js,ts,vite,react,nextjs,solidjs,nodejs,express,prisma,graphql,postman,mongodb,mysql,firebase,supabase,cypress,jest,vitest,git,gitlab,netlify,vercel&perline=5" alt="Tech Stack" /> 
 
