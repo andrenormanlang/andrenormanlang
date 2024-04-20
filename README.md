@@ -13,10 +13,6 @@
 <img src="https://skillicons.dev/icons?i=figma,tailwind,bootstrap,materialui,html,css,sass,js,ts,vite,react,nextjs,solidjs,nodejs,express,prisma,graphql,postman,mongodb,mysql,firebase,supabase,cypress,jest,vitest,git,gitlab,netlify,vercel&perline=5" alt="Tech Stack" /> 
 
 
-
-To update your tech stack display using shield badges as in the example you've given, you need to replace the original `<img>` element with a series of Markdown-formatted image links where each link corresponds to a badge for a specific technology. Here's how you can rewrite the given list of technologies using the badge style you prefer:
-
-```markdown
 ## Tech Stack
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
