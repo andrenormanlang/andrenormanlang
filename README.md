@@ -6,8 +6,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andrenormanlang&show_icons=true)
 
-> This is a blockquote.
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrenormanlang&layout=compact)
 
 ## Tech Stack
