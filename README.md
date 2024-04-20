@@ -10,7 +10,7 @@
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=figma,tailwind,bootstrap,materialui,html,css,sass,js,ts,vite,react,nextjs,solidjs,nodejs,express,prisma,graphql,postman,mongodb,mysql,firebase,supabase,cypress,jest,vitest,git,gitlab,netlify,vercel&perline=5" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=figma,tailwind,bootstrap,materialui,html,css,sass,js,ts,vite,react,nextjs,solidjs,nodejs,express,prisma,graphql,apollo,postman,mongodb,mysql,firebase,supabase,cypress,jest,vitest,git,gitlab,netlify,vercel&perline=5" alt="Tech Stack" /> 
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
