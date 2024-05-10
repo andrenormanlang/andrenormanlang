@@ -4,13 +4,13 @@
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
 </a>
 
-<!--
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andrenormanlang&show_icons=true)
--->
 
-<!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andrenormanlang&show_icons=true)
+
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrenormanlang&layout=compact)
--->
+
 
 ## Tech Stack
 
