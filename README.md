@@ -5,11 +5,12 @@
 </a>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andrenormanlang&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andrenormanlang&show_icons=true&theme=dark)
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrenormanlang&layout=compact)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrenormanlang&layout=compact&theme=dark)
 
 
 ## Tech Stack
