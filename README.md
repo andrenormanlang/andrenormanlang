@@ -15,7 +15,7 @@
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=figma,tailwind,bootstrap,materialui,html,css,sass,js,ts,vite,react,nextjs,solidjs,nodejs,express,prisma,graphql,apollo,postman,mongodb,mysql,firebase,supabase,cypress,jest,vitest,git,gitlab,netlify,vercel&perline=5" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=figma,tailwind,bootstrap,materialui,html,css,sass,js,ts,vite,react,nextjs,solidjs,nodejs,express,prisma,graphql,apollo,postman,mongodb,mysql,firebase,supabase,cypress,jest,vitest,git,gitlab,netlify,vercel,docker&perline=5" alt="Tech Stack" /> 
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -39,6 +39,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-4FC921?style=for-the-badge&logo=vitest&logoColor=white)
