@@ -15,7 +15,7 @@
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=figma,tailwind,bootstrap,materialui,html,css,sass,js,ts,vite,react,nextjs,solidjs,nodejs,express,prisma,graphql,apollo,postman,mongodb,mysql,firebase,supabase,cypress,jest,vitest,git,gitlab,netlify,vercel,docker&perline=5" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=figma,tailwind,bootstrap,materialui,html,css,sass,htmx,js,go,ts,vite,react,nextjs,solidjs,nodejs,express,prisma,graphql,apollo,postman,mongodb,mysql,firebase,supabase,cypress,jest,vitest,git,gitlab,netlify,vercel,docker&perline=5" alt="Tech Stack" /> 
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -24,8 +24,11 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-2B579A?style=for-the-badge&logo=htmx&logoColor=white)
+![Templ](https://img.shields.io/badge/Templ-000000?style=for-the-badge&logo=templ&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
