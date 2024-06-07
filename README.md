@@ -46,7 +46,7 @@
 
 ## Tech Stack which I am interested in and looking into at the moment
 
-<img src="https://skillicons.dev/icons?i=go,C#,graphql,apollo,supabase&perline=5" alt="Tech Stack Studying" /> 
+<img src="https://skillicons.dev/icons?i=go,graphql,apollo,supabase,C#&perline=5" alt="Tech Stack Studying" /> 
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTMX](https://img.shields.io/badge/HTMX-2B579A?style=for-the-badge&logo=htmx&logoColor=white)
