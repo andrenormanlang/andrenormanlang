@@ -15,7 +15,7 @@
 
 ## Tech Stack I have studied / worked and have some experience with
 
-<img src="https://skillicons.dev/icons?i=figma,tailwind,bootstrap,materialui,html,css,sass,js,ts,vite,react,nextjs,nodejs,prisma,postman,mongodb,mysql,firebase,supabase,cypress,jest,vitest,git,gitlab,netlify,vercel&perline=5" alt="Tech Stack Done" />
+<img src="https://skillicons.dev/icons?i=figma,tailwind,bootstrap,materialui,html,css,sass,js,ts,vite,react,nextjs,nodejs,prisma,postman,mongodb,mysql,firebase,cypress,jest,vitest,git,gitlab,netlify,vercel&perline=5" alt="Tech Stack Done" />
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
