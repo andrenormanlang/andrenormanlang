@@ -47,7 +47,7 @@
 
 ## Tech Stack which I am interested in and looking into at the moment
 
-<img src="https://skillicons.dev/icons?i=cs,go,solidjs,graphql,apollo,supabase,nestjs,docker&perline=5" alt="Tech Stack Studying" /> 
+<img src="https://skillicons.dev/icons?i=cs,go,solidjs,graphql,hasura,supabase,nestjs,docker&perline=5" alt="Tech Stack Studying" /> 
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
