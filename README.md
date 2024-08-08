@@ -55,7 +55,7 @@
 ![Templ](https://img.shields.io/badge/Templ-000000?style=for-the-badge&logo=templ&logoColor=white)
 ![SolidJS](https://img.shields.io/badge/SolidJS-%232C4F7C.svg?style=for-the-badge&logo=solid&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Hasura](https://img.shields.io/badge/Hasura-1EB4D4?style=for-the-badge&logo=apollo-graphql&logoColor=white)
+![Hasura](https://img.shields.io/badge/hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
