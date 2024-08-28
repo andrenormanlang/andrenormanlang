@@ -48,7 +48,7 @@
 
 ## Tech Stack which I am interested in and looking into at the moment
 
-<img src="https://skillicons.dev/icons?i=cs,go,solidjs,graphql,hasura,nestjs,docker&perline=5" alt="Tech Stack Studying" /> 
+<img src="https://skillicons.dev/icons?i=cs,go,solidjs,drizzle,graphql,hasura,nestjs,docker&perline=5" alt="Tech Stack Studying" /> 
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -56,6 +56,7 @@
 ![Templ](https://img.shields.io/badge/Templ-000000?style=for-the-badge&logo=templ&logoColor=white)
 ![SolidJS](https://img.shields.io/badge/SolidJS-%232C4F7C.svg?style=for-the-badge&logo=solid&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-FF69B4?style=for-the-badge&logo=drizzle&logoColor=white)
 ![Hasura](https://img.shields.io/badge/hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
