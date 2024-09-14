@@ -48,9 +48,11 @@
 
 ## Tech Stack which I am interested in and looking into at the moment
 
-<img src="https://skillicons.dev/icons?i=cs,go,solidjs,graphql,nestjs,docker&perline=5" alt="Tech Stack Studying" /> 
+<img src="https://skillicons.dev/icons?i=cs,dotnet,go,solidjs,graphql,nestjs,docker,azure&perline=5" alt="Tech Stack Studying" /> 
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![HTMX](https://img.shields.io/badge/HTMX-2B579A?style=for-the-badge&logo=htmx&logoColor=white)
 ![Templ](https://img.shields.io/badge/Templ-000000?style=for-the-badge&logo=templ&logoColor=white)
