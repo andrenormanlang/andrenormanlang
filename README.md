@@ -48,20 +48,11 @@
 
 ## Tech Stack which I am interested in and looking into at the moment
 
-<img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,azure,go,htmx,svelte,solidjs,graphql,nestjs,docker &perline=5" alt="Tech Stack Studying" /> 
+<img src="https://skillicons.dev/icons?i=cs,dotnet,go,rust,graphql,docker &perline=5" alt="Tech Stack Studying" /> 
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![HTMX](https://img.shields.io/badge/HTMX-2B579A?style=for-the-badge&logo=htmx&logoColor=white)
-![Templ](https://img.shields.io/badge/Templ-000000?style=for-the-badge&logo=templ&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
-![SolidJS](https://img.shields.io/badge/SolidJS-%232C4F7C.svg?style=for-the-badge&logo=solid&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Drizzle](https://img.shields.io/badge/drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-![Hasura](https://img.shields.io/badge/hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
