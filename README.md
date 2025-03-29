@@ -11,7 +11,7 @@
 
 ## Tech Stack I have studied / worked and have some experience with
 
-<img src="https://skillicons.dev/icons?i=figma,tailwind,bootstrap,sass,js,ts,react,nextjs,nodejs,prisma,mysql,postgresql,mongodb,firebase,,supabase,cypress,jest,vitest&perline=5" alt="Tech Stack Done" />
+<img src="https://skillicons.dev/icons?i=figma,tailwind,bootstrap,sass,js,ts,react,nextjs,nodejs,prisma,mysql,postgres,mongodb,firebase,,supabase,cypress,jest,vitest&perline=5" alt="Tech Stack Done" />
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
