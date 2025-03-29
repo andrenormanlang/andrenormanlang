@@ -11,7 +11,7 @@
 
 ## Tech Stack I have studied / worked and have some experience with
 
-<img src="https://skillicons.dev/icons?i=figma,tailwind,bootstrap,sass,js,ts,react,nextjs,nodejs,prisma,postgresql,mongodb,firebase,,supabase,cypress,jest,vitest&perline=5" alt="Tech Stack Done" />
+<img src="https://skillicons.dev/icons?i=figma,tailwind,bootstrap,sass,js,ts,react,nextjs,nodejs,prisma,mysql,postgresql,mongodb,firebase,,supabase,cypress,jest,vitest&perline=5" alt="Tech Stack Done" />
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -25,8 +25,8 @@
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgresql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
