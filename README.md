@@ -9,7 +9,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrenormanlang&layout=compact&theme=dark)
 
 
-## Tech Stack I have studied / worked and have some experience with
+## Tech Stack I have studied / worked and have experience with:
 
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,js,ts,react,nextjs,nodejs,prisma,mysql,postgres,mongodb,firebase,,supabase,cypress,jest,vitest&perline=5" alt="Tech Stack Done" />
 
@@ -33,7 +33,7 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-4FC921?style=for-the-badge&logo=vitest&logoColor=white)
 
-## Stuff which I am interested in and looking into at the moment
+## Stuff which I am interested in and looking into at the moment:
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,go,rust,graphql,docker,githubactions&perline=5" alt="Tech Stack Studying" />
 
