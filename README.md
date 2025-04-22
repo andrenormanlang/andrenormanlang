@@ -45,5 +45,6 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions&logoColor=white)
-
-
+![p5.js](https://img.shields.io/badge/p5.js-ED225C?style=for-the-badge&logo=p5.js&logoColor=white)
+![Processing](https://img.shields.io/badge/Processing-0096D8?style=for-the-badge&logo=processing&logoColor=white)
+![SuperCollider](https://img.shields.io/badge/SuperCollider-A000F0?style=for-the-badge&color=A000F0)
