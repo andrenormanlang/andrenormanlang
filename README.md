@@ -35,7 +35,7 @@
 
 ## Tech Stack which I am interested in and looking into at the moment
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,go,rust,graphql,docker &perline=5" alt="Tech Stack Studying" /> 
+<img src="https://skillicons.dev/icons?i=cs,dotnet,go,rust,graphql,docker,githubactions&perline=5" alt="Tech Stack Studying" />
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -43,3 +43,4 @@
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[![GitHub Actions](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge)](https://actions-badge.atrox.dev/atrox/sync-dotenv/goto)
