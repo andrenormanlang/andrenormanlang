@@ -9,7 +9,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrenormanlang&layout=compact&theme=dark)
 
 
-## Stuff Stack I have studied / worked and have experience with:
+## Stuff I have studied / worked and have experience with:
 
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,js,ts,react,nextjs,nodejs,prisma,mysql,postgres,mongodb,firebase,,supabase,cypress,jest,vitest&perline=5" alt="Tech Stack Done" />
 
