@@ -35,13 +35,12 @@
 
 ## Stuff which I am interested in and looking into at the moment:
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,p5js,processing,go,rust,graphql,docker,githubactions&perline=5" alt="Tech Stack Studying" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,kotlin,p5js,processing,go,rust,graphql,docker,githubactions&perline=5" alt="Tech Stack Studying" />
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![p5.js](https://img.shields.io/badge/p5.js-ED225C?style=for-the-badge&logo=p5.js&logoColor=white)
-![Processing](https://img.shields.io/badge/Processing-0096D8?style=for-the-badge&logo=processing&logoColor=white)
-![SuperCollider](https://img.shields.io/badge/SuperCollider-A000F0?style=for-the-badge&color=A000F0)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
