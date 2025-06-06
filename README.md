@@ -35,7 +35,7 @@
 
 ## Stuff which I am interested in and looking into at the moment:
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,kotlin,android studio,p5js,processing,go,rust,graphql,docker,githubactions&perline=5" alt="Tech Stack Studying" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,kotlin,androidstudio,p5js,processing,go,rust,graphql,docker,githubactions&perline=5" alt="Tech Stack Studying" />
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
