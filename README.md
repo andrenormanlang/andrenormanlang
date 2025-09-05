@@ -35,7 +35,7 @@
 
 ## Stuff which I am interested in and looking into at the moment:
 
-(https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,blazor,golang,docker,githubactions&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,blazor,golang,docker,githubactions&titles=true)
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
