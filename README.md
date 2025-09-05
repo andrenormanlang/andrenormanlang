@@ -35,10 +35,11 @@
 
 ## Stuff which I am interested in and looking into at the moment:
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,docker,githubactions&perline=5" alt="Tech Stack Studying" />
+(https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,blazor,golang,docker,githubactions&titles=true)
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.Blazor](https://img.shields.io/badge/-Blazor-999?style=flat&logo=WebAssembly&logoColor=654FF0)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions&logoColor=white)
