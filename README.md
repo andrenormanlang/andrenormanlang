@@ -4,7 +4,7 @@
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
 </a>
 
-[![Andre's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=andrenormanlang)](https://github.com/andrenormanlang/github-readme-stats-fast)
+[![Andre's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=andrenormanlang&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrenormanlang&layout=compact&theme=dark)
 
