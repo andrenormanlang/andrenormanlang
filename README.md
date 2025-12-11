@@ -10,10 +10,11 @@
 
 
 
-## Tech Stack
+### 💻 Tech Stack
 
-**Primary:**
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,cs,dotnet&perline=7" alt="Main Stack" />
-
-**Additional Technologies:**
-<img src="https://skillicons.dev/icons?i=tailwind,prisma,postgres,mysql,mongodb,firebase,supabase,cypress,jest,vitest,docker,githubactions&perline=6" alt="Additional Tools" />
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **JS Stack** | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Next](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) |
+| **.NET Stack** | ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=Blazor&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=windows&logoColor=white) |
+| **Databases** | ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
