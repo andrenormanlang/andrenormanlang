@@ -8,7 +8,7 @@
 
 [![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrenormanlang&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-### 💻 Tech Stack
+### 💻 Preferred Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
